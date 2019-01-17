@@ -6,7 +6,7 @@
 	<extension point="xbmc.addon.repository" name="RTV Slovenija Add-on Repository">
 		<info compressed="false">https://raw.githubusercontent.com/dam-pav/repo.rtvslo.kodi/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/dam-pav/repo.rtvslo.kodi/master/addons.xml.md5</checksum>
-		<datadir zip="true">file:///c:/Users/Damjan/Documents/GitHub/repo</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/dam-pav/</datadir>
 		<hashes>true</hashes>
 	</extension>
 	<extension point="xbmc.addon.metadata">
