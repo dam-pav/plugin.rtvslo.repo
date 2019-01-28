@@ -4,9 +4,9 @@
 		<import addon="xbmc.addon" version="12.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.repository" name="RTV Slovenija Add-on Repository">
-		<info compressed="false">http://dam-pav.eu5.org/addons.xml</info>
-		<checksum>http://dam-pav.eu5.org/addons.xml.md5</checksum>
-		<datadir zip="true">http://dam-pav.eu5.org/</datadir>
+		<info compressed="false">http://dam-pav.eu5.org/repo.rtvslo/addons.xml</info>
+		<checksum>http://dam-pav.eu5.org/repo.rtvslo/addons.xml.md5</checksum>
+		<datadir zip="true">http://dam-pav.eu5.org/repo.rtvslo/</datadir>
 		<hashes>true</hashes>
 	</extension>
 	<extension point="xbmc.addon.metadata">
