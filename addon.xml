@@ -5,7 +5,7 @@
 	</requires>
 	<extension point="xbmc.addon.repository" name="RTV Slovenija Add-on Repository">
 		<info compressed="false">http://dam-pav.eu5.org/repo.rtvslo/addons.xml</info>
-		<checksum>http://dam-pav.eu5.org/repo.rtvslo/addons.xml.md5</checksum>
+		<checksum>http://dam-pav.eu5.org/repo.rtvslo/addons.xml.md5.txt</checksum>
 		<datadir zip="true">http://dam-pav.eu5.org/repo.rtvslo/</datadir>
 		<hashes>true</hashes>
 	</extension>
@@ -14,9 +14,9 @@
 		<summary lang="en">Installation of Kodi add-ons for playing content from RTV Slovenija</summary>
 		<description lang="en">Download and install add-ons for Kodi in the category "All" using RTV Slovenija.</description>
 		<description lang="sl">Snemite in namestite dodatke za Kodi v kategoriji "All" pod RTV Slovenija</description>
-		<disclaimer lang="en">The software is provided as-is and comes with no warranty whatsoever.[CR][CR]The author of the software does not provide the media[CR]content nor does he gain from its consumption.[CR][CR]All responsibility for the comsumption lies with the consumer.[CR]</disclaimer>
-		<disclaimer lang="sl">Programska oprema je kakršna je, brez kakršnekoli garancije.[CR][CR]Avtor programske opreme ne zagotavlja medijske vsebine,[CR]niti nima nikakršne koristi pvezane z njenim predvajanjem.[CR][CR]Vse odgovornosti prevzema končni uporabnik medijskih vsebin.[CR]</disclaimer>
+		<disclaimer lang="en">The software is provided as-is and comes with no warranty whatsoever.[CR][CR]The author of the software does not provide the media[CR]content nor does he gain from its consumption.[CR][CR]All responsibility for use and comsumption lies with the consumer.[CR]</disclaimer>
+		<disclaimer lang="sl">Programska oprema je kakršna je, brez kakršnekoli garancije.[CR][CR]Avtor programske opreme ne zagotavlja medijske vsebine,[CR]niti nima nikakršne koristi povezane z njenim predvajanjem.[CR][CR]Vse odgovornosti za uporabo prevzema končni uporabnik medijskih vsebin.[CR]</disclaimer>
 		<platform>all</platform>
-		<website>https://github.com/dam-pav/repo.rtvslo.kodi/blob/master/README.md</website>
+		<website>http://dam-pav.eu5.org</website>
 	</extension>
 </addon>
