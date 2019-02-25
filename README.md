@@ -1,4 +1,4 @@
-# plugin.rtvslo.repo
+# repository.dam-pav.rtvslo 
 Namestitev Kodi dodatkov za predvajanje vsebin RTV Slovenija  
 Installation of Kodi add-ons for playing content from RTV Slovenija
 
