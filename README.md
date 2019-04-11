@@ -1,6 +1,6 @@
 # repository.dam-pav.rtvslo 
-Namestitev Kodi dodatkov za predvajanje vsebin RTV Slovenija. 
-Installation of Kodi add-ons for playing content from RTV Slovenija. This add-on 
+Namestitev Kodi dodatkov za predvajanje vsebin RTV Slovenija.  
+Installation of Kodi add-ons for playing content from RTV Slovenija.  
 
 **About the repository / O repozitoriju**  
 A repository simplifies installation and, most importantly, makes auto-update possible for all add-ons included (including the repository add-on itself).
